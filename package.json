@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "daterangepicker@3.0.3",
+      "daterangefords@1.0.0",
       "C:\\Users\\ADMIN\\Desktop\\Projects\\ds-admin-frontend"
     ]
   ],
-  "_from": "daterangepicker@3.0.3",
-  "_id": "daterangepicker@3.0.3",
+  "_from": "daterangefords@1.0.0",
+  "_id": "daterangefords@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-h1yB44g0IV3oQtdV+oxCst6wn9MHECDDUTOhSQepj0Ouo6FH44T/vrbx9G3pTn5IuK+ZyHQws0FG7BvRZDRWoQ==",
   "_location": "/daterangepicker",
@@ -14,26 +14,26 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "daterangepicker@3.0.3",
-    "name": "daterangepicker",
-    "escapedName": "daterangepicker",
-    "rawSpec": "3.0.3",
+    "raw": "daterangefords@1.0.0",
+    "name": "dsdaterange",
+    "escapedName": "dsdaterange",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "3.0.3"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/daterangepicker/-/daterangepicker-3.0.3.tgz",
-  "_spec": "3.0.3",
+  "_spec": "1.0.0",
   "_where": "C:\\Users\\ADMIN\\Desktop\\Projects\\ds-admin-frontend",
   "author": {
-    "name": "Dan Grossman",
-    "email": "dan@dangrossman.info",
-    "url": "http://www.dangrossman.info"
+    "name": "Cao Trung Hieu",
+    "email": "hieuctfe@gmail.com",
+    "url": "https://github.com/hieuctfe/"
   },
   "bugs": {
-    "url": "https://github.com/dangrossman/daterangepicker/issues"
+    "url": "https://github.com/hieuctfe/daterangepicker/issues"
   },
   "dependencies": {
     "jquery": ">=1.10",
@@ -43,18 +43,18 @@
   "devDependencies": {
     "node-sass": "^3.4.2"
   },
-  "homepage": "https://github.com/dangrossman/daterangepicker",
+  "homepage": "https://github.com/hieuctfe/daterangepicker",
   "license": "MIT",
   "main": "daterangepicker.js",
-  "name": "daterangepicker",
+  "name": "dsdaterangepicker",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangrossman/daterangepicker.git"
+    "url": "git+https://github.com/hieuctfe/daterangepicker.git"
   },
   "scripts": {
     "scss": "node-sass daterangepicker.scss > daterangepicker.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "style": "daterangepicker.css",
-  "version": "3.0.3"
+  "version": "1.0.0"
 }
