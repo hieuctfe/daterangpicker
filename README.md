@@ -1,4 +1,9 @@
-tukhoanaylatukhoaduynhat
-pptv
-backbonee
-tukhoanaylatukhoaduynhat1
+- Scrum - Agile là gì.
+- Các mã lỗi backend trả về gọi là "error status code" ví dụ 404, 500, 401 gì đấy
+- Từ đó phân biệt được lỗi nào frontend, lỗi nào backend
+- Tìm hiểu API là gì (định nghĩa) - dùng khi nào
+- Sau đó coi thế nào gọi là single page web app
+- Coi cách sử dụng devtool đặc biệt là tab elements và network (trong này khá nhiêu thứ liên quan API, coi cách filter hiển thị như thế nào, XHR gọi đi là gì, trả về là gì)
+- Coi cookie của web là gì
+- Coi sơ qua html, css, javascript là gì và kết hợp tạo nên trang web như thế nào
+- Coi định nghĩa unit test là gì tại sao cần nó
