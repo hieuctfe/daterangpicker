@@ -41,7 +41,7 @@
   },
   "description": "Date range picker component for Bootstrap",
   "devDependencies": {
-    "node-sass": "^3.4.2"
+    "node-sass": "^4.14.1"
   },
   "homepage": "https://github.com/hieuctfe/daterangepicker",
   "license": "MIT",
